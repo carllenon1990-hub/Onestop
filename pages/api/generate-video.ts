@@ -1,0 +1,1 @@
+// Content for generate-video.ts
